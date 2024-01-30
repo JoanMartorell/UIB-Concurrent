@@ -1,0 +1,99 @@
+      Deadshot: Sóc innocent!
+      Deadshot entra al jutjat. Sospitosos: 1
+      Harley Quinn: Sóc innocent!
+      Harley Quinn entra al jutjat. Sospitosos: 2
+      Penguin: Sóc innocent!
+      Penguin entra al jutjat. Sospitosos: 3
+      Riddler: Sóc innocent!
+      Riddler entra al jutjat. Sospitosos: 4
+      Bane: Sóc innocent!
+      Bane entra al jutjat. Sospitosos: 5
+      Talia al Ghul: Sóc innocent!
+      Talia al Ghul entra al jutjat. Sospitosos: 6
+      Ra's al Ghul: Sóc innocent!
+      Ra's al Ghul entra al jutjat. Sospitosos: 7
+      Hugo Strange: Sóc innocent!
+----> Jutge Dredd: Jo soc la llei!
+      Hugo Strange entra al jutjat. Sospitosos: 8
+      Killer Croc: Sóc innocent!
+      Killer Croc entra al jutjat. Sospitosos: 9
+      Catwoman: Sóc innocent!
+      Catwoman entra al jutjat. Sospitosos: 10
+      Poison Ivy: Sóc innocent!
+      Poison Ivy entra al jutjat. Sospitosos: 11
+      Mr. Freeze: Sóc innocent!
+      Mr. Freeze entra al jutjat. Sospitosos: 12
+      Jason Todd: Sóc innocent!
+      Jason Todd entra al jutjat. Sospitosos: 13
+      Hush: Sóc innocent!
+      Hush entra al jutjat. Sospitosos: 14
+      Joker: Sóc innocent!
+      Joker entra al jutjat. Sospitosos: 15
+      Clayface: Sóc innocent!
+      Clayface entra al jutjat. Sospitosos: 16
+      Deathstroke: Sóc innocent!
+      Deathstroke entra al jutjat. Sospitosos: 17
+      Mad Hatter: Sóc innocent!
+----> Jutge Dredd: Sóc a la sala, tanqueu la porta!
+----> Jutge Dredd: Fitxeu als sospitosos presents
+      Harley Quinn fitxa. Fitxats: 1
+      Talia al Ghul fitxa. Fitxats: 2
+      Bane fitxa. Fitxats: 3
+      Deadshot fitxa. Fitxats: 4
+      Hugo Strange fitxa. Fitxats: 5
+      Mr. Freeze fitxa. Fitxats: 6
+      Killer Croc fitxa. Fitxats: 7
+      Catwoman fitxa. Fitxats: 8
+      Ra's al Ghul fitxa. Fitxats: 9
+      Poison Ivy fitxa. Fitxats: 10
+      Hush fitxa. Fitxats: 11
+      Riddler fitxa. Fitxats: 12
+      Jason Todd fitxa. Fitxats: 13
+      Deathstroke fitxa. Fitxats: 14
+      Joker fitxa. Fitxats: 15
+      Clayface fitxa. Fitxats: 16
+      Penguin fitxa. Fitxats: 17
+----> Jutge Dredd: Preniu declaració als presents
+      Clayface declara. Declaracions: 1
+      Joker declara. Declaracions: 2
+      Penguin declara. Declaracions: 3
+      Hush declara. Declaracions: 4
+      Deathstroke declara. Declaracions: 5
+      Bane declara. Declaracions: 6
+      Catwoman declara. Declaracions: 7
+      Riddler declara. Declaracions: 8
+      Ra's al Ghul declara. Declaracions: 9
+      Poison Ivy declara. Declaracions: 10
+      Killer Croc declara. Declaracions: 11
+      Jason Todd declara. Declaracions: 12
+      Deadshot declara. Declaracions: 13
+      Hugo Strange declara. Declaracions: 14
+      Mr. Freeze declara. Declaracions: 15
+      Harley Quinn declara. Declaracions: 16
+      Talia al Ghul declara. Declaracions: 17
+----> Jutge Dredd: Podeu abandonar la sala, tots a l'asil!
+----> Jutge Dredd: La justícia descansa, demà prendré declaració als sospitosos que queden
+      Penguin entra a l'Asil d'Arkham
+      Hush entra a l'Asil d'Arkham
+      Catwoman entra a l'Asil d'Arkham
+      Riddler entra a l'Asil d'Arkham
+      Poison Ivy entra a l'Asil d'Arkham
+      Jason Todd entra a l'Asil d'Arkham
+      Hugo Strange entra a l'Asil d'Arkham
+      Talia al Ghul entra a l'Asil d'Arkham
+      Mad Hatter: No és just, vull declarar! Sóc innocent!
+      Scarecrow: No és just, vull declarar! Sóc innocent!
+      Clayface entra a l'Asil d'Arkham
+      Bane entra a l'Asil d'Arkham
+      Killer Croc entra a l'Asil d'Arkham
+      Mr. Freeze entra a l'Asil d'Arkham
+      Two-Face: No és just, vull declarar! Sóc innocent!
+      Deathstroke entra a l'Asil d'Arkham
+      Deadshot entra a l'Asil d'Arkham
+      Joker entra a l'Asil d'Arkham
+      Harley Quinn entra a l'Asil d'Arkham
+      Ra's al Ghul entra a l'Asil d'Arkham
+
+
+
+

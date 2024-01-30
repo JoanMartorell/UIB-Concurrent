@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 28" line=" 144" >
+      <vfs_project>E:\Assignatures\3r\1rSemestre\Concurrent\Practiques\Entrega2\entrega2.gpr</vfs_project>
+      <vfs_file>E:\Assignatures\3r\1rSemestre\Concurrent\Practiques\Entrega2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 14" line=" 6" >
+      <vfs_project>E:\Assignatures\3r\1rSemestre\Concurrent\Practiques\Entrega2\entrega2.gpr</vfs_project>
+      <vfs_file>E:\Assignatures\3r\1rSemestre\Concurrent\Practiques\Entrega2\src\random_generators.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
